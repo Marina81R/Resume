@@ -10,7 +10,7 @@
 
 • Data analysis: визуализация данных, исследовательский анализ данных, обработка данных, статистика.   
 • Machine learning: линейная и логистическая регрессии, деревья решений, ансамблевые алгоритмы, метод опорных векторов, кластеризация, анализ главных компонент, обнаружение аномалий.   
-• Python (NumPy, pandas, scipy, seaborn, matplotlib, sklearn, causalml, LightGBM, XGBoost, CatBoost, BeautifulSoup4, TensorFlow, Keras) и SQL (Postgres).   • Другое: Excel, PowerPoint.  
+• Python (NumPy, pandas, scipy, seaborn, matplotlib, sklearn, causalml, LightGBM, XGBoost, CatBoost, BeautifulSoup4, TensorFlow, Keras) и SQL (Postgres).       • Другое: Excel, PowerPoint.  
 
 # ПРОФЕССИОНАЛЬНЫЙ ОПЫТ
 
